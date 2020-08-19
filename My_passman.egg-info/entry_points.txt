@@ -1,0 +1,3 @@
+[console_scripts]
+passman = scripts.Pass_man:main
+
