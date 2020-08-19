@@ -1,11 +1,11 @@
-# ![My-passman](assets\logo.png) Pass-man
+# ![My-passman](assets/logo.png) Pass-man
 
 
 Pass-man is a simple command-line password manager with AES encryption and multiple users support.
 
 
 
-![screenshot](assets\sc.png)
+![screenshot](assets/sc.png)
 
 
 ## Installing
@@ -18,7 +18,7 @@ pip install My-passman
 password are stored inside sqlite database each user are diffrent tables of a single
 database and all passwords and usernames are AES encrypted and can only decrypted with user's master password. Hashed Master password is stored inside the database and entered password will be compared with the hashed password for authentication.
 
-![database](assets\db.png)
+![database](assets/db.png)
 ## Arguments
 
 command-line arguments.
